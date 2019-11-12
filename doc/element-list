@@ -1,0 +1,7 @@
+com.coupons
+com.coupons.entity
+com.coupons.repository
+com.coupons.rest
+com.coupons.rest.controller
+com.coupons.rest.controller.ex
+com.coupons.service

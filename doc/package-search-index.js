@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.coupons"},{"l":"com.coupons.entity"},{"l":"com.coupons.repository"},{"l":"com.coupons.rest"},{"l":"com.coupons.rest.controller"},{"l":"com.coupons.rest.controller.ex"},{"l":"com.coupons.service"}]
