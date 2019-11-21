@@ -1,4 +1,4 @@
-# CouponSystem
+# SpringCouponSystem
 This is A Coupon management project.
 
 ## Description
